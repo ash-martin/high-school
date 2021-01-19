@@ -16,6 +16,7 @@ At the top right corner of the page there will be a button called Fork
 ![picture](fork.png)
 
 Once you press this button you will see this prompt
+
 ![picture](prompt.png)
 
 Click on your username
@@ -66,6 +67,8 @@ Check all of the boxes under **Github** and save your preferences.
 ## To Share your Code
 
 Workspace --> Share Running Workspace
+
+Then copy the URL displayed and email it (or post it in chat) to your instructor.
 
 <img style="width: 400px" src="https://github.com/OperationSpark/fsd-setup/blob/master/img/share-workspace.png?raw=true">
 
