@@ -26,6 +26,7 @@ _________________________
 
 <img style="width: 400px" src="https://github.com/OperationSpark/fsd-setup/blob/master/img/create-workspace-gitpod.png?raw=true">
 
+0. Click the green "Code" button on your forked repo and copy the URL displayed
 1. Go to: <a href=https://gitpod.io>gitpod.io</a>
 2. Scroll down to "Get Started" (see above)
 3. Paste your GitHub url in the space
