@@ -2,6 +2,7 @@
 read -p "Enter Your GitHub Username: "  username
 read -s -p "Enter Your GitHub Password: "  password
 
+npm i -g bower
 mkdir projects
 cd projects
 
